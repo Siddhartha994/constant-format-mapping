@@ -297,6 +297,13 @@ module.export = {
         }
         ]
     },
+    "additional_details" : [
+        {
+        "name" : "ABC",
+        "value" : "ABC"
+        }
+    ],
+    "additional_details_flat" : "ABC",
     "buybox_winner": {
         "minimum_order_quantity": {
         "value": 2,
@@ -413,13 +420,101 @@ module.export = {
         "position": 3
         }
     ],
+    "frequently_bought_together" : {
+        "total_price" : "abc",
+        "products"  : "a b c"
+    },
+     "newer_model" : " ABC" ,
+       
+     "also_viewed" : [
+        {
+        "title" : "abc",
+        "link" : "abc",
+        "asin ":" abc",
+        "parent_asin" : "abc",
+        "image" : "abc",
+        "is_prime" : "abc",
+        "rating" : "abc",
+        "ratings_total" :"abc",
+        "price" : "abc"
+        }
+     ],
+      "similar_to_consider" : "abc" ,
+       
+      "compare_with_similar" : [
+        {
+            "title" : "abc",
+            "link" : "abc",
+            "asin" : "abc",
+            "image" : "abc",
+            "rating" : "abc",
+            "rating" : "abc",
+            "ratings_total" : "abc",
+            "price" : "abc"
+        }
+      ],
+       "track_list" : [
+        {
+        "title" : "abc",
+        "link" : "abc",
+        "asin" : "abc",
+        "sample_link" : "abc",
+        "track_number" : "abc",
+        "duration" : "abc",
+        "popularity" : "abc",
+        "price" : "abc"
+
+       }
+
+       ],
+       "also_bought" : ["ABC"],
+       "view_to_purchase" : ["ABC"],
+       "sponsored_products"  :[" ABC"],
+
+       "bundles" : [
+        {
+          "title" : " abc",
+          "link": "abc",
+          "asin" : "abc",
+          "image" : "abc",
+          "rating" : "abc",
+          "ratings_total" : "abc",
+          "item_count" : "abc",
+          "price" : "abc",
+          "rrp" : "abc",
+        }
+       ],
+       "bundle_contents" :
+       [
+        {
+         "title"  :"abc",
+         "link"  : "abc",
+         "asin" : "abc",
+         "image" : "abc",
+         "rating" : "abc",
+         "ratings_total": "abc",
+         "item_count": "abc",
+         "price" : "abc"
+
+        }
+       ],
+
+       "shop_by_look" : {
+
+        "title" : "abc",
+        "items" : "abc"
+
+       },
+
+
+
     "specifications": [
         {
         "name": "Brand Name",
         "value": "AKASO"
         },
         {
-        "name": "Item Weight",
+        "name": "Item Weight", 
         "value": "1.2 pounds"
         },
         {
