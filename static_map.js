@@ -1,6 +1,7 @@
 module.export = {
     "product": {
     "title": "AKASO V50 Elite 4K60fps Touch Screen WiFi Action Camera Voice Control EIS 131 feet Waterproof Camera Adjustable View Angle 8X Zoom Remote Control Sports Camera with Helmet Accessories Kit",
+    "description":"abc",
     "variants": [
         {
         "asin": "B07NVTGRVZ",
@@ -60,6 +61,37 @@ module.export = {
         "rating_image": "abc",
         "product_fiche_image": "abc"
     },
+    "protection_plans" : {
+        "title": "abc",
+        "asin" : "abc",
+        "price" : {
+            "symbol": "$",
+            "value": 8.69,
+            "currency": "USD",
+            "raw": "$3.89"
+        }
+    },
+    "add_an_accessory" : {
+        "title": "abc",
+        "asin" : "abc",
+        "price" : {
+            "symbol": "$",
+            "value": 8.69,
+            "currency": "USD",
+            "raw": "$3.89"
+        }
+    },
+    "add_on_item" : {
+        "is_add_on_item" : true
+    },
+    "collection_size" : 123,
+    "collection_children" : [
+        {
+            "link": "abc",
+            "asin": "abc",
+            "title": "abc"
+        }
+    ],
     "keywords": "AstroAI Digital Multimeter, TRMS 6000 Counts Volt Meter Manual and Auto Ranging; Measures Voltage Tester, Current, Resistance, Continuity, Frequency; Tests Diodes, Transistors, Temperature,AstroAI,WH5000A",
     "keywords_list": [
         "abc"
@@ -70,6 +102,9 @@ module.export = {
             "link": "abc"
         }
     ],
+    "format":"abc",
+    "runtime":"abc",
+    "size_guide_html" :"<span class=\"a-size-base a-text-bold a-text-caps\">IN T-shirts</span><div class=\"a-section a-spacing-base a-spacing-top-base\"><div class=\"a-scroller\"><table id=\"fit-sizechartv2-0-table-0\" class=\"a-bordered a-size-base\"><tbody><tr><th>Brand Size</th><th>India</th><th>Chest</th><th>Waist</th><th>Sleeve Length</th><th>Shoulder</th><th>Neck</th><th>Length</th></tr><tr><td>SMALL</td><td class=\"a-nowrap\">S</td><td class=\"a-nowrap\">38</td><td class=\"a-nowrap\">38</td><td class=\"a-nowrap\">8</td><td class=\"a-nowrap\">16.5</td><td class=\"a-nowrap\">6</td><td class=\"a-nowrap\">27</td></tr><tr><td>MEDIUM</td><td class=\"a-nowrap\">M</td><td class=\"a-nowrap\">40</td><td class=\"a-nowrap\">39</td><td class=\"a-nowrap\">8.5</td><td class=\"a-nowrap\">17.5</td><td class=\"a-nowrap\">6.5</td><td class=\"a-nowrap\">28</td></tr><tr><td>LARGE</td><td class=\"a-nowrap\">L</td><td class=\"a-nowrap\">42</td><td class=\"a-nowrap\">42</td><td class=\"a-nowrap\">9</td><td class=\"a-nowrap\">18.5</td><td class=\"a-nowrap\">7</td><td class=\"a-nowrap\">29</td></tr><tr><td>XL</td><td class=\"a-nowrap\">XL</td><td class=\"a-nowrap\">43</td><td class=\"a-nowrap\">43</td><td class=\"a-nowrap\">9.5</td><td class=\"a-nowrap\">19.5</td><td class=\"a-nowrap\">7</td><td class=\"a-nowrap\">29.5</td></tr><tr><td>XXL</td><td class=\"a-nowrap\">2XL</td><td class=\"a-nowrap\">44</td><td class=\"a-nowrap\">44</td><td class=\"a-nowrap\">10</td><td class=\"a-nowrap\">20</td><td class=\"a-nowrap\">7.5</td><td class=\"a-nowrap\">31</td></tr><tr><td>3XL</td><td class=\"a-nowrap\">3XL</td><td class=\"a-nowrap\">45</td><td class=\"a-nowrap\">45</td><td class=\"a-nowrap\">10.5</td><td class=\"a-nowrap\">20.5</td><td class=\"a-nowrap\">7.5</td><td class=\"a-nowrap\">31.5</td></tr></tbody></table></div></div>",
     "promotions_feature": "Buy 3 or more and get 5% off on Qualifying items offered by ADRO Here's how \n   Get 7.5% up to Rs. 2000 Instant Discount on Yes Bank Credit Card EMI transactions Here's how \n   Get 7.5% up to Rs. 1500 Instant Discount on Kotak Bank Credit Card and Debit Card EMI transactions Here's how \n   Get 7.5% up to Rs. 1500 Instant Discount on Indusind Bank Credit Card EMI transactions Here's how \n   10% Instant Discount up to INR 300 on Federal Bank Cards. Minimum Trxn is INR 1000 Here's how \n   5% Instant Discount up to INR 250 on HSBC Cashback Card Credit Card Transactions. Minimum purchase value INR 1000 Here's how \n   No cost EMI available on select cards. Please check 'EMI options' above for more details. Here's how \n   Get GST invoice and save up to 28% on business purchases. Sign up for free Here's how",
     "link": "https://www.amazon.com/AKASO-Control-Waterproof-Adjustable-Accessories/dp/B07J4TNYV8",
     "parent_asin": "AB123123",
@@ -271,6 +306,13 @@ module.export = {
         "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"
         }
     ],
+    "images_count" : 3,
+    "images_flat" : 5,
+    "image_overlay_badge" : {
+        "link":"abc",
+        "raw":"abc",
+        "name":"abc"
+    },
     "videos": [
         {
         "duration_seconds": 12,
@@ -285,6 +327,7 @@ module.export = {
         "group_type": "videos_for_this_product"
         }
     ],
+<<<<<<< HEAD
     "videos_count" : "abc",
 
     "videos_flat" : "abc",
@@ -318,6 +361,10 @@ module.export = {
 
     ],
      //"has_360_view" :
+=======
+    "videos_count": 4,
+    "videos_flat" : 4,
+>>>>>>> 863ac8c6776b2921c095f113b11fe7a90b9aadbc
     "is_bundle": true,
       
     
