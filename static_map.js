@@ -139,7 +139,8 @@ module.export = {
     },
     "bestseller_badge":{
         "link":"https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
-        "category": "abc"
+        "category": "abc",
+        "badge_text":"abcd"
     },
     "book_description":"abc",
     "audible_sample":"abc",
@@ -178,6 +179,13 @@ module.export = {
     },
     "rating": 4.4,
     "ratings_total": 991,
+    "rating_breakdown": {
+        "five_star": { "percentage": 50, "count": 1 },
+        "four_star": { "percentage": 0, "count": 0 },
+        "three_star": { "percentage": 0, "count": 0 },
+        "two_star": { "percentage": 0, "count": 0 },
+        "one_star": { "percentage": 50, "count": 1 }
+      },
     "reviews_total": 896,
     "top_reviews": [
         {
