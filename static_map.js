@@ -37,6 +37,13 @@ module.export = {
         }
         }
     ],
+    "variant_asins_flat":"abc",
+    "editorial_reviews":[
+        {
+            "title":"abc",
+            "body":"abcd"
+        }
+    ],
     "asin": "B00NTCH52W",
     "search_alias": {
         "title": "Clothing & Accessories",
@@ -71,6 +78,12 @@ module.export = {
         "name": "Memory Cards",
         "link": "https://www.amazon.com/s/ref=dp_bc_aui_C_2?ie=UTF8&node=502394&rh=n%3A172282%2Cn%3A%21493964%2C",
         "category_id": "502394"
+        }
+    ],
+    "documents":[
+        {
+            "name": "Memory Cards",
+            "link": "https://www.amazon.com/s/ref=dp_bc_aui_C_2?ie=UTF8&node=502394&rh=n%3A172282%2Cn%3A%21493964%2C"
         }
     ],
     "bestsellers_rank": [
@@ -121,6 +134,15 @@ module.export = {
         "keywords": "mpow h5",
         "link": "https://www.amazon.com/s/ref=choice_dp_b?keywords=mpow%20h5"
     },
+    "brand_store":{
+        "store_id":"123"
+    },
+    "bestseller_badge":{
+        "link":"https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers",
+        "category": "abc"
+    },
+    "book_description":"abc",
+    "audible_sample":"abc",
     "climate_pledge_friendly": {
         "text": "Compact by Design (Certified by Amazon)",
         "image": "https://m.media-amazon.com/images/I/41Y2L-DZWfL._SS160_.png",
@@ -137,6 +159,13 @@ module.export = {
     "brand": "AKASO",
     "weight": "1.2 pounds",
     "shipping_weight": "1.2 pounds",
+    "series":{
+        "index":"abc",
+        "title":"abc",
+        "asin":"B00O869KJE",
+        "link":"https://www.amazon.com/AKASO/b/ref=bl_dp_s_web_7188749011?ie=UTF8&node=7188749011&field-lbr_brands_browse-bin=AKASO",
+        "members":"abc"
+    },
     "first_available": {
         "raw": "October 17, 2018",
         "utc": "2018-10-16T23:00:00.000Z"
@@ -517,6 +546,7 @@ module.export = {
         "value": "October 17, 2018"
         }
     ],
+    "specifications_flat" : "abcd",
     "services": [
         {
         "title": "Include installation",
