@@ -327,11 +327,8 @@ module.export = {
         "group_type": "videos_for_this_product"
         }
     ],
-<<<<<<< HEAD
-    "videos_count" : "abc",
-
-    "videos_flat" : "abc",
-    
+    "videos_count" : 5,
+    "videos_flat" : 5,   
     "videos_additional" : [
         {
             "id" : "abc",
@@ -360,14 +357,7 @@ module.export = {
         }
 
     ],
-     //"has_360_view" :
-=======
-    "videos_count": 4,
-    "videos_flat" : 4,
->>>>>>> 863ac8c6776b2921c095f113b11fe7a90b9aadbc
     "is_bundle": true,
-      
-    
     "feature_bullets": [
         "UPGRADED SERIES OF AKASO V50: Records 4K/60fps, 4K/30fps, 2.7K/60fps, 2.7K/30fps, 1080P/120fps, 720P/240fps video and 20MP image, you can capture high-quality full HD footages.",
         "VOICE CONTROL: You can control your AKASO V50 Elite action camera hands free with voice commands Like “Action Start Video” and “Action Photo”.",
