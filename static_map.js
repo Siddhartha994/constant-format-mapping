@@ -98,6 +98,8 @@ module.export = {
         "link": "https://www.amazon.com/gp/bestsellers/electronics/3426471/ref=pd_zg_hrsr_electronics"
         }
     ],
+     //"bestsellers_rank_flat" : ["abc"]
+     
     "summarization_attributes": [
         {
         "name": "Storage Capacity",
@@ -130,6 +132,14 @@ module.export = {
         "id": "durability"
         }
     ],
+     
+    "reviews_that_mention" : [{
+        "name" : "abc",
+        "value" : "abc",
+        "id": "abc"
+    }
+
+    ],
     "amazons_choice": {
         "keywords": "mpow h5",
         "link": "https://www.amazon.com/s/ref=choice_dp_b?keywords=mpow%20h5"
@@ -142,6 +152,8 @@ module.export = {
         "category": "abc",
         "badge_text":"abcd"
     },
+     
+
     "book_description":"abc",
     "audible_sample":"abc",
     "climate_pledge_friendly": {
@@ -273,7 +285,42 @@ module.export = {
         "group_type": "videos_for_this_product"
         }
     ],
+    "videos_count" : "abc",
+
+    "videos_flat" : "abc",
+    
+    "videos_additional" : [
+        {
+            "id" : "abc",
+            "product_asin" : "abc",
+            "parent_asin" : "abc",
+            "related_products" : " abc",
+            "title" : "abc",
+            "profile_name" : "abc",
+            "profile_image_url": " abc",
+            "profile_link" : "abc",
+            "creator_type": "abc",
+            "vendor_code" : "abc",
+            "vendor_name": "abc",
+            "vendor_tracking_id" : "abc",
+            " video_image_id" : "abc",
+            "video_image_url" : "abc",
+            "video_image_width"  : "abc",
+            "video_image_height" : "abc",
+            "video_image_extension":"abc",
+            "video_url" : "abc",
+            "video_mime_type" : "abc",
+            "duration" : "abc",
+            "type" : "abc"
+
+
+        }
+
+    ],
+     //"has_360_view" :
     "is_bundle": true,
+      
+    
     "feature_bullets": [
         "UPGRADED SERIES OF AKASO V50: Records 4K/60fps, 4K/30fps, 2.7K/60fps, 2.7K/30fps, 1080P/120fps, 720P/240fps video and 20MP image, you can capture high-quality full HD footages.",
         "VOICE CONTROL: You can control your AKASO V50 Elite action camera hands free with voice commands Like “Action Start Video” and “Action Photo”.",
@@ -281,6 +328,13 @@ module.export = {
         "OPTIONAL VIEW ANGLE: You can adjust the view angle of this action camera according to your needs between Wide, Medium and Narrow. This sports camera also has the distortion calibration feature, which offers image distortion improvements.",
         "WATERPROOF CAMERA UP TO 131FT: Equipped the improved waterproof case, this underwater camera can deep dive up to 131 feet, ready to capture all details of your adventures. Ideal for water sports such as swimming, surfing, diving, snorkeling, etc."
     ],
+     "feature_bullets_count" : "abc",
+     
+     "model_number" : "abc",
+      
+     "feature_bullets_flat" : "abc ",
+
+     
     "important_information": {
         "sections": [
         {
